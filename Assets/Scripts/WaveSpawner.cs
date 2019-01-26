@@ -5,7 +5,7 @@ using UnityEngine.AI;
 
 public class WaveSpawner : MonoBehaviour {
 
-    public  Transform enemyGameObject;
+    public Transform enemyGameObject;
 
     public float timeBetween = 20f;
     private float countTime;
@@ -16,9 +16,17 @@ public class WaveSpawner : MonoBehaviour {
 
     private bool waveEnded;
 
+    public Transform w1, w2, w3, w4, w5;
+    public List<Transform> pointList;
+
     public void Start() {
         countTime = timeBetween;
         waveEnded = true;
+        pointList.Add(w1);
+        pointList.Add(w2);
+        pointList.Add(w3);
+        pointList.Add(w4);
+        pointList.Add(w5);
     }
 	
 	// Update is called once per frame
@@ -50,7 +58,13 @@ public class WaveSpawner : MonoBehaviour {
 
     void SpawnEnemy()
     {
+<<<<<<< HEAD:Assets/WaveSpawner.cs
+        GameObject go = Instantiate(enemyGameObject, transform.position, transform.rotation).gameObject;
+        //go.GetComponent<NavMeshAgent>().SetDestination(new Vector3(10, 1, 10));
+        go.GetComponent<Enemy>().initWaypoints(pointList);
+=======
         GameObject  go = Instantiate(enemyGameObject, transform.position, transform.rotation).gameObject;
         //go.GetComponent<NavMeshAgent>().SetDestination(new Vector3(10, 1, 10));
+>>>>>>> 31025cdb4205bb2e1c5f1425545c1887863716be:Assets/Scripts/WaveSpawner.cs
     }
 }

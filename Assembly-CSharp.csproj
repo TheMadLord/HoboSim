@@ -55,7 +55,9 @@
   <ItemGroup>
      <Compile Include="Assets\Enemy.cs" />
      <Compile Include="Assets\EnemyTarget.cs" />
+     <Compile Include="Assets\Scripts\movement.cs" />
      <Compile Include="Assets\WaveSpawner.cs" />
+     <Compile Include="Assets\Waypoint.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Users/elija/Creative Cloud Files/Documents/GameJam/2019/HoboSim/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
