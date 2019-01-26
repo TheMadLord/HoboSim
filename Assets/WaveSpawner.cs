@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class WaveSpawner : MonoBehaviour {
 
@@ -49,6 +50,7 @@ public class WaveSpawner : MonoBehaviour {
 
     void SpawnEnemy()
     {
-        Instantiate(enemyGameObject, transform.position, transform.rotation);
+        GameObject  go = Instantiate(enemyGameObject, transform.position, transform.rotation).gameObject;
+        go.GetComponent<NavMeshAgent>().SetDestination(new Vector3(10, 1, 10));
     }
 }
