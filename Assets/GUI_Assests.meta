@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Assets/GUI_Assests.meta
 guid: 01592aaa0172f9e4ea56928f3d687a2d
+=======
+guid: 2a35f59555ddc5a45807a31936fab1b3
+>>>>>>> 6d824394cc9fe02a92ab18ac4cc9d6522dd6d4c7:Assets/Scenes.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
