@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Basic_Camera_start.unity
+=======
+- path: Assets/enemyScene.unity
+>>>>>>> c08cd20f9ae4190c17877496138c0ca8f7b61ab8
   isLoaded: 1
   isActive: 1
