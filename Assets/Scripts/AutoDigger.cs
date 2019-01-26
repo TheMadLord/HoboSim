@@ -6,8 +6,10 @@ public class AutoDigger : Buildables {
     public float timeBetweenDigs = 2;
     // Update is called once per frame
     private float timer;
+    private int mHealth;
     void Start() {
         timer = timeBetweenDigs;
+        mHealth = 100;
     }
 
 	void Update () {
@@ -15,7 +17,16 @@ public class AutoDigger : Buildables {
         if (timer <= 0) {
             timer = timeBetweenDigs;
             DiggingScript.Trash += 1;
-            print("Trash :" + DiggingScript.Trash);
+            //print("Trash :" + DiggingScript.Trash);
         }
 	}
+
+    public void damage(int amt)
+    {
+        mHealth -= amt;
+        if(mHealth <= 0)
+        {
+            Destroy(gameObject);
+        }
+    }
 }

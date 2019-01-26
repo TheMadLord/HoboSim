@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BoxLiving : MonoBehaviour {
+public class Health : MonoBehaviour {
 
     private int mHealth;
+
 	// Use this for initialization
 	void Start () {
         mHealth = 100;
@@ -20,19 +21,7 @@ public class BoxLiving : MonoBehaviour {
         mHealth -= amt;
         if(mHealth <= 0)
         {
-            Destroy(gameObject);
-        }
-    }
-
-
-    void OnCollisionEnter2D(Collision2D col)
-    {
-        //print("hit");
-        //print(col.gameObject.name);
-        if(col.gameObject.name == "Enemy(Clone)")
-        {
-            //print("hit");
-            //damage(10);
+            print("GAME OVER -- PLAYER IS DEAD");
         }
     }
 }

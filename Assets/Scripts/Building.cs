@@ -29,7 +29,7 @@ public class Building : MonoBehaviour
                         GameObject go = Instantiate(buildables[current], tm.CellToWorld(at) + new Vector3(0.5f, 0.5f), Quaternion.identity).gameObject;
                         Instantiate(BuilderCollider, go.transform);
                         DiggingScript.Trash -= buildables[current].cost;
-                        print("Trash: " + DiggingScript.Trash);
+                        //print("Trash: " + DiggingScript.Trash);
                     }
                 }
                 else if (current == -2)
