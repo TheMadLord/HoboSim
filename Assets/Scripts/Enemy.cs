@@ -34,6 +34,7 @@ public class Enemy : MonoBehaviour {
 
                 if ((EnemyTarget.pos - transform.position).magnitude < 2.7f)
                 {
+                DiggingScript.heath -= 10;
                     damage(mHealth);
                 }
             }
@@ -77,10 +78,12 @@ public class Enemy : MonoBehaviour {
         {
             col.gameObject.GetComponent<AutoDigger>().damage(10);
         }
+        /*
         else if (col.gameObject.name == "Player")
         {
             col.gameObject.GetComponent<Health>().damage(2);
         }
+        */
     }
 
     public void damage(int amt)

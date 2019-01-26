@@ -121,9 +121,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f4774b753c177542a28aa165fff7228, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cost: 1
+  cost: 5
   buildableOn:
   - {fileID: 11400000, guid: 16298417ea2b23249a446f3acabfcff9, type: 2}
+  heath: 0
 --- !u!114 &114626215027507488
 MonoBehaviour:
   m_ObjectHideFlags: 1
