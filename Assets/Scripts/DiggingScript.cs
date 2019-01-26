@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.Tilemaps;
 
 public class DiggingScript : MonoBehaviour {
-    public static int Trash = 0;
+    public static int Trash = 100;
     public Tilemap tm;
 	// Use this for initialization
 	void Start () {
