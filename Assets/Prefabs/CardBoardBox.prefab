@@ -38,6 +38,7 @@ GameObject:
   - component: {fileID: 212429191838582080}
   - component: {fileID: 114436272949330772}
   - component: {fileID: 61231148667757352}
+  - component: {fileID: 114626215027507488}
   m_Layer: 0
   m_Name: CardBoardBox
   m_TagString: Buildable
@@ -123,6 +124,17 @@ MonoBehaviour:
   cost: 1
   buildableOn:
   - {fileID: 11400000, guid: 16298417ea2b23249a446f3acabfcff9, type: 2}
+--- !u!114 &114626215027507488
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1773025178670448}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1af757534f3dbf4c8aad74e9179c54a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!212 &212429191838582080
 SpriteRenderer:
   m_ObjectHideFlags: 1

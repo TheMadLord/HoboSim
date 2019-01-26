@@ -1,23 +1,25 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class GUI_Healthbar : MonoBehaviour {
 
     public float Health;
     protected float maxHealth;
-
+    protected Image image;
 	void Start () {
-        Health = 100; maxHealth = 100;
+        Health = 100f; maxHealth = 100f;
+        image = GetComponent<Image>();
 	}
 	
 	void Update () {
-        getHealth();
-        Health = Health / maxHealth;
+        Health = getHealth();
+        image.fillAmount = Health / maxHealth;
 	}
 
     public float getHealth(){
-        return (Health - .001f);
+        return (Health - .01f);
     }
 
 }
