@@ -11,8 +11,8 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: MagaTrash
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 21300000, guid: c7523286f76ff774f995ee23b0d2108a, type: 3}
-  m_Color: {r: 1, g: 0.07661381, b: 0, a: 1}
+  m_Sprite: {fileID: 21300000, guid: 77e6ff9ce98b6a940b3da3d4413e9918, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
     e01: 0

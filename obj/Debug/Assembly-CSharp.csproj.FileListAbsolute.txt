@@ -166,3 +166,7 @@ E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\obj\Debug\Assembly-CSharp.csp
 E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\obj\Debug\Assembly-CSharp.dll
 E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\obj\Debug\Assembly-CSharp.pdb
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\obj\Debug\Assembly-CSharp.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\obj\Debug\Assembly-CSharp.pdb
