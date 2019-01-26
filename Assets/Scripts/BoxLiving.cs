@@ -32,7 +32,7 @@ public class BoxLiving : MonoBehaviour {
         if(col.gameObject.name == "Enemy(Clone)")
         {
             //print("hit");
-            damage(10);
+            //damage(10);
         }
     }
 }
