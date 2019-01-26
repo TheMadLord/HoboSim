@@ -54,8 +54,11 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\GUI_Scripts\GUI_Healthbar.cs" />
-     <Compile Include="Assets\GUI_Scripts\Menu_TrashShop.cs" />
-     <Compile Include="Assets\GUI_Scripts\Trash_Counter.cs" />
+     <Compile Include="Assets\GUI_Scripts\GUI_HobboButton.cs" />
+     <Compile Include="Assets\GUI_Scripts\GUI_LefthandMenu.cs" />
+     <Compile Include="Assets\GUI_Scripts\GUI_TrashCounter.cs" />
+     <Compile Include="Assets\GUI_Scripts\GUI_TrashMenu.cs" />
+     <Compile Include="Assets\GUI_Scripts\GUI_TrashshopButton.cs" />
      <Compile Include="Assets\Scripts\AutoDigger.cs" />
      <Compile Include="Assets\Scripts\BoxLiving.cs" />
      <Compile Include="Assets\Scripts\Buildables.cs" />
@@ -63,6 +66,7 @@
      <Compile Include="Assets\Scripts\DiggingScript.cs" />
      <Compile Include="Assets\Scripts\Enemy.cs" />
      <Compile Include="Assets\Scripts\EnemyTarget.cs" />
+     <Compile Include="Assets\Scripts\Health.cs" />
      <Compile Include="Assets\Scripts\movement.cs" />
      <Compile Include="Assets\Scripts\WaveSpawner.cs" />
      <Compile Include="Assets\Scripts\Waypoint.cs" />
