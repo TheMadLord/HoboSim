@@ -18,7 +18,7 @@ public class Building : MonoBehaviour
         {
             Ray mouseRay = Camera.main.ScreenPointToRay(Input.mousePosition);
             RaycastHit hit;
-            if (Physics.Raycast(mouseRay, out hit, 100.0f))
+            if (Physics.Raycast(mouseRay, out hit, 500.0f))
             {
                 if (current >= 0 && buildables[current].cost <= DiggingScript.Trash && hit.collider.tag != "Buildable")
                 {
