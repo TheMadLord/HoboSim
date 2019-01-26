@@ -63,6 +63,11 @@ public class Enemy : MonoBehaviour {
         }
     }
 
+    void OnCollisionEnter2d(Collision2D col)
+    {
+        print(col.gameObject.name);
+    }
+
     public void damage(int amt)
     {
         mHealth -= amt;

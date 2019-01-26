@@ -23,4 +23,16 @@ public class BoxLiving : MonoBehaviour {
             Destroy(gameObject);
         }
     }
+
+
+    void OnCollisionEnter2D(Collision2D col)
+    {
+        //print("hit");
+        //print(col.gameObject.name);
+        if(col.gameObject.name == "Enemy(Clone)")
+        {
+            //print("hit");
+            damage(10);
+        }
+    }
 }
