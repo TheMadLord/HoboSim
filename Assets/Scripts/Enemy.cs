@@ -34,6 +34,7 @@ public class Enemy : MonoBehaviour {
 
                 if ((EnemyTarget.pos - transform.position).magnitude < 2.7f)
                 {
+                DiggingScript.heath -= 10;
                     damage(mHealth);
                 }
             }
@@ -63,9 +64,26 @@ public class Enemy : MonoBehaviour {
         }
     }
 
-    void OnCollisionEnter2d(Collision2D col)
+    void OnCollisionEnter2D(Collision2D col)
     {
+        //print("hit");
         print(col.gameObject.name);
+        if (col.gameObject.name == "CardBoardBox(Clone)")
+        {
+            //print("hit");
+            //col.damage(10);
+            col.gameObject.GetComponent<BoxLiving>().damage(10);
+        }
+        else if (col.gameObject.name == "AutoDigger(Clone)")
+        {
+            col.gameObject.GetComponent<AutoDigger>().damage(10);
+        }
+        /*
+        else if (col.gameObject.name == "Player")
+        {
+            col.gameObject.GetComponent<Health>().damage(2);
+        }
+        */
     }
 
     public void damage(int amt)

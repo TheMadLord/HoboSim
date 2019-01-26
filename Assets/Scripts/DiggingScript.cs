@@ -2,13 +2,16 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Tilemaps;
+using UnityEngine.SceneManagement;
 
 public class DiggingScript : MonoBehaviour {
     public static int Trash = 100;
+    public static float heath = 100;
     public Tilemap tm;
 	// Use this for initialization
 	void Start () {
-		
+        Trash = 100;
+        heath = 100;
 	}
 
     void Update() {
@@ -24,6 +27,9 @@ public class DiggingScript : MonoBehaviour {
                     print(++Trash);
                 }
             }
+        }
+        if (heath <= 0) { 
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }
 	}
 }

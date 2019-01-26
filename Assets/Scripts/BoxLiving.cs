@@ -7,7 +7,7 @@ public class BoxLiving : MonoBehaviour {
     private int mHealth;
 	// Use this for initialization
 	void Start () {
-        mHealth = 100;
+        mHealth = 300;
 	}
 	
 	// Update is called once per frame
@@ -32,7 +32,7 @@ public class BoxLiving : MonoBehaviour {
         if(col.gameObject.name == "Enemy(Clone)")
         {
             //print("hit");
-            damage(10);
+            //damage(10);
         }
     }
 }
