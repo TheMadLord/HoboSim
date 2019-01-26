@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/GUIAlpha.unity
+=======
+- path: Assets/Scenes/testScene.unity
+>>>>>>> fc87cdd9c10ed5fec4fb68ae27ce02f8da80d179
   isLoaded: 1
   isActive: 1
