@@ -58,13 +58,9 @@ public class WaveSpawner : MonoBehaviour {
 
     void SpawnEnemy()
     {
-<<<<<<< HEAD:Assets/WaveSpawner.cs
         GameObject go = Instantiate(enemyGameObject, transform.position, transform.rotation).gameObject;
         //go.GetComponent<NavMeshAgent>().SetDestination(new Vector3(10, 1, 10));
         go.GetComponent<Enemy>().initWaypoints(pointList);
-=======
-        GameObject  go = Instantiate(enemyGameObject, transform.position, transform.rotation).gameObject;
         //go.GetComponent<NavMeshAgent>().SetDestination(new Vector3(10, 1, 10));
->>>>>>> 31025cdb4205bb2e1c5f1425545c1887863716be:Assets/Scripts/WaveSpawner.cs
     }
 }

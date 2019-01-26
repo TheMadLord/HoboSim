@@ -4,7 +4,6 @@ using UnityEngine;
 public class Enemy : MonoBehaviour {
 
     private int mHealth;
-    public bool isAlive;
     private bool atTrash;
     private float mSpeed;
     private List<Transform> pointList;
@@ -14,9 +13,7 @@ public class Enemy : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        //sdadtransform.position = new Vector3(10, 1, 10);
         mHealth = 100;
-        isAlive = true;
         mSpeed = 2.5f;
 
         target = pointList[0];
@@ -30,21 +27,6 @@ public class Enemy : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        if (isAlive)
-        {
-            //print("djskbjvbsdljbl");
-            transform.position += new Vector3(0, 1) * Time.deltaTime;
-            Vector3 direction = (EnemyTarget.pos - transform.position).normalized;
-            transform.position += direction * Time.deltaTime * mSpeed;
-
-<<<<<<< HEAD:Assets/Enemy.cs
-            //if ((EnemyTarget.pos - transform.position).magnitude < 0.4f)
-            //{
-            //    damage(mHealth);
-            //}
-            //print(Vector3.Distance(target.position, transform.position));
-
-
             if (atTrash)
             {
                 Vector3 direction = (EnemyTarget.pos - transform.position).normalized;
@@ -60,20 +42,11 @@ public class Enemy : MonoBehaviour {
                 Vector3 direction = (target.position - transform.position).normalized;
                 transform.position += direction * Time.deltaTime * mSpeed;
 
-                if (Vector3.Distance(target.position, transform.position) < 0.2f)
+                if (Vector3.Distance(target.position, transform.position) < 0.5f)
                 {
                     GetNextWaypoint();
                 }
             }
-            
-
-=======
-            if ((EnemyTarget.pos - transform.position).magnitude < 0.4f)
-            {
-                damage(mHealth);
-            }
->>>>>>> 31025cdb4205bb2e1c5f1425545c1887863716be:Assets/Scripts/Enemy.cs
-        }
     }
 
     private void GetNextWaypoint()
@@ -95,7 +68,6 @@ public class Enemy : MonoBehaviour {
         mHealth -= amt;
         if(mHealth <= 0)
         {
-            isAlive = false;
             Destroy(gameObject);
             
         }
