@@ -14,7 +14,7 @@ public class Menu_TrashShop : MonoBehaviour {
 
     void Start() {
         int spritesSize = sprites.Length;
-        heightRect = spritesSize / 5 * .12;
+        heightRect = (int)(spritesSize / 5 * .12f);
         Enviroment_objs = new List<GameObject>();
         int j = 0;
         foreach (Sprite obj in sprites) {

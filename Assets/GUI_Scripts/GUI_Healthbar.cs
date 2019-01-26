@@ -13,11 +13,11 @@ public class GUI_Healthbar : MonoBehaviour {
 	
 	void Update () {
         getHealth();
-        Health = Health / MaxHealth;
+        Health = Health / maxHealth;
 	}
 
     public float getHealth(){
-        return (this->health - .001);
+        return (Health - .001f);
     }
 
 }
