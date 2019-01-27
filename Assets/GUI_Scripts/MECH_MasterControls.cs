@@ -16,12 +16,10 @@ public class MECH_MasterControls : MonoBehaviour {
         if (target.activeSelf)
         {
             MECH_MasterControls.GamePaused = true;
-            print("Game Paused");
         }
         else
         {
             MECH_MasterControls.GamePaused = false;
-            print("Game Not Paused");
         }
     }
 }

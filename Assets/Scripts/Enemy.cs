@@ -36,8 +36,8 @@ public class Enemy : MonoBehaviour {
 
                 if ((EnemyTarget.pos - transform.position).magnitude < 2.7f)
                 {
-                    DiggingScript.heath -= 10;
-                    damage(mHealth);
+                    DiggingScript.HurtTrash(10);
+                    damage(mHealth,false);
                 }
             }
             else
@@ -89,12 +89,12 @@ public class Enemy : MonoBehaviour {
         */
     }
 
-    public void damage(int amt)
+    public void damage(int amt, bool addSkillPoint = true)
     {
         mHealth -= amt;
         if(mHealth <= 0)
         {
-            MECH_SkillPoints.SkillPoints++;
+            MECH_SkillPoints.SkillPoints += addSkillPoint? 1:0;
             Destroy(gameObject);
         }
     }
