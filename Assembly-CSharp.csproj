@@ -62,8 +62,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\GUI_Scripts\GUI_Healthbar.cs" />
-    <Compile Include="Assets\GUI_Scripts\GUI_HobboButton.cs" />
     <Compile Include="Assets\GUI_Scripts\GUI_LefthandMenu.cs" />
+    <Compile Include="Assets\GUI_Scripts\GUI_MainParent.cs" />
+    <Compile Include="Assets\GUI_Scripts\GUI_PlayerProfileButton.cs" />
     <Compile Include="Assets\GUI_Scripts\GUI_PlayerProfileReadMoretab.cs" />
     <Compile Include="Assets\GUI_Scripts\GUI_PlayerProfileSkillButtons.cs" />
     <Compile Include="Assets\GUI_Scripts\GUI_TrashCounter.cs" />
