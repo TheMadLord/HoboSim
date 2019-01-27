@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 public class Enemy : MonoBehaviour {
 
-    private int mHealth;
+    public int mHealth;
     private bool atTrash;
     private float mSpeed;
     private List<Transform> pointList;
@@ -17,6 +17,9 @@ public class Enemy : MonoBehaviour {
     private Transform target;
     private int wavePointIndex = 0;
 
+    public float attackSpeed = 0.5f;
+    private float attackTimer;
+
 	// Use this for initialization
 	void Start () {
         mHealth = 100;
@@ -24,6 +27,7 @@ public class Enemy : MonoBehaviour {
 
         target = pointList[0];
         atTrash = false;
+        attackTimer = 0;
     }
 
     public void initSprite(float num)
@@ -72,6 +76,9 @@ public class Enemy : MonoBehaviour {
                     GetNextWaypoint();
                 }
             }
+            if (attackTimer > 0) {
+                attackTimer -= Time.deltaTime;
+            }
         }
     }
 
@@ -89,26 +96,14 @@ public class Enemy : MonoBehaviour {
         }
     }
 
-    void OnCollisionEnter2D(Collision2D col)
+    void OnCollisionStay2D(Collision2D col)
     {
-        //print("hit");
-        print(col.gameObject.name);
-        if (col.gameObject.name == "CardBoardBox(Clone)")
-        {
-            //print("hit");
-            //col.damage(10);
-            col.gameObject.GetComponent<BoxLiving>().damage(10);
+        if (attackTimer <= 0) {
+            if (col.gameObject.tag == "Buildable") {
+                col.gameObject.GetComponent<Buildables>().damage(10);
+                attackTimer = attackSpeed;
+            }
         }
-        else if (col.gameObject.name == "AutoDigger(Clone)")
-        {
-            col.gameObject.GetComponent<AutoDigger>().damage(10);
-        }
-        /*
-        else if (col.gameObject.name == "Player")
-        {
-            col.gameObject.GetComponent<Health>().damage(2);
-        }
-        */
     }
 
     public void damage(int amt)

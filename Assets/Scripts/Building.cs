@@ -22,6 +22,7 @@ public class Building : MonoBehaviour
             {
                 if (current >= 0 && buildables[current].cost <= DiggingScript.Trash && hit.collider.tag != "Buildable")
                 {
+                    if (buildables[current].requiredRank == 0);
                     Vector3Int at = tm.WorldToCell(hit.point);
                     Tile clicked = (Tile)tm.GetTile(at);
                     if (buildables[current].buildableOn.Contains(clicked))

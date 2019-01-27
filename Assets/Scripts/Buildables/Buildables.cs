@@ -7,10 +7,19 @@ public class Buildables : MonoBehaviour
 {
     public int cost;
     public Tile[] buildableOn;
-    public float heath;
+    public float health;
+    public int requiredRank;
 
-
-    public void Remove() {
+    public virtual void Remove() {
         GameObject.Destroy(gameObject);
+    }
+
+    public virtual void damage(int amt)
+    {
+       health -= amt;
+        if (health <= 0)
+        {
+            Remove();
+        }
     }
 }
