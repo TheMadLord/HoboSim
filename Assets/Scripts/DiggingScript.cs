@@ -46,7 +46,7 @@ public class DiggingScript : MonoBehaviour {
                 string clicked = tm.GetTile(tm.WorldToCell(hit.point)).name;
                 if (at == "Digable" && clicked == "MagaTrash")
                 {
-                    AddTrash(1);
+                    AddTrash(MECH_SkillPoints.trashCarryWeight);
                 }
             }
         }
