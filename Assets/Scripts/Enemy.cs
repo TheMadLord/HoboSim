@@ -8,6 +8,12 @@ public class Enemy : MonoBehaviour {
     private float mSpeed;
     private List<Transform> pointList;
 
+
+    public Sprite sp1;
+    public Sprite sp2;
+    public Sprite sp3;
+
+
     private Transform target;
     private int wavePointIndex = 0;
 
@@ -22,6 +28,22 @@ public class Enemy : MonoBehaviour {
         target = pointList[0];
         atTrash = false;
         attackTimer = 0;
+    }
+
+    public void initSprite(float num)
+    {
+        if(num < 100)
+        {
+            GetComponent<SpriteRenderer>().sprite = sp1;
+        }
+        else if (num < 200)
+        {
+            GetComponent<SpriteRenderer>().sprite = sp2;
+        }
+        else if (num < 300)
+        {
+            GetComponent<SpriteRenderer>().sprite = sp3;
+        }
     }
 
     public void initWaypoints(List<Transform> plist)
