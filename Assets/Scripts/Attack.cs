@@ -5,7 +5,7 @@ using UnityEngine;
 public class Attack : MonoBehaviour {
 
     public float speed;
-    public static float meleeTTL, shortTTL, midTTL, gunTTL;
+    public float meleeTTL, shortTTL, midTTL, gunTTL;
     private float myTime;
     private Vector3 moveVec;
 
@@ -15,7 +15,8 @@ public class Attack : MonoBehaviour {
         shortTTL = 1.3f;
         midTTL = 2.4f;
         gunTTL = 3.5f;
-        moveVec = new Vector3(0, 0);
+
+        speed = 5;
 	}
 
     public void initTime(int type, Vector3 vec)
@@ -44,7 +45,7 @@ public class Attack : MonoBehaviour {
 	void Update () {
         Destroy(gameObject, myTime);
 
-        transform.position += moveVec;
+        transform.position += moveVec * Time.deltaTime * speed;
 	}
 
     void OnCollisionEnter2D(Collision2D col)
@@ -55,7 +56,7 @@ public class Attack : MonoBehaviour {
         {
             //print("hit");
             //col.damage(10);
-            col.gameObject.GetComponent<Enemy>().damage(10);
+            col.gameObject.GetComponent<Enemy>().damage(100);
         }
         Destroy(gameObject);
     }

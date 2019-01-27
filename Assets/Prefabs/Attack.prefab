@@ -22,6 +22,7 @@ GameObject:
   - component: {fileID: 114659012496364324}
   - component: {fileID: 61007982834426030}
   - component: {fileID: 212213601637194114}
+  - component: {fileID: 50433431302047694}
   m_Layer: 0
   m_Name: Attack
   m_TagString: Untagged
@@ -42,6 +43,26 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!50 &50433431302047694
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1691289842452400}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!61 &61007982834426030
 BoxCollider2D:
   m_ObjectHideFlags: 1
@@ -79,6 +100,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 0
+  meleeTTL: 0.02
+  shortTTL: 0.3
+  midTTL: 0.6
+  gunTTL: 1
 --- !u!212 &212213601637194114
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -113,7 +138,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 30
   m_Sprite: {fileID: 21300000, guid: 72f37bf1209f16f4d8912e4736d35ad2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
