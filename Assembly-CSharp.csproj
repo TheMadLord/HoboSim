@@ -65,6 +65,7 @@
      <Compile Include="Assets\GUI_Scripts\GUI_TrashshopButton.cs" />
      <Compile Include="Assets\GUI_Scripts\MECH_MasterControls.cs" />
      <Compile Include="Assets\GUI_Scripts\MECH_SkillPoints.cs" />
+     <Compile Include="Assets\Scripts\Attack.cs" />
      <Compile Include="Assets\Scripts\AutoDigger.cs" />
      <Compile Include="Assets\Scripts\BoxLiving.cs" />
      <Compile Include="Assets\Scripts\Buildables.cs" />
