@@ -7,7 +7,7 @@ public class GUI_PlayerProfileReadMoretab : MonoBehaviour {
 
     public Text textFill;
     public Image IconImage;
-    public int ID;
+    public static int ID;
 
     void Start() {
         gameObject.SetActive(false);
