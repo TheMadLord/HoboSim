@@ -12,7 +12,7 @@ public class GUI_TrashCounter : MonoBehaviour {
 	}
 
 	void Update () {
-        trashText.text = "TRASH : " + trash;	
+        trashText.text = "TRASH : " + DiggingScript.Trash;	
 	}
    
 }

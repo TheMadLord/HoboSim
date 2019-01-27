@@ -31,16 +31,19 @@ public class WaveSpawner : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        if(countTime <= 0f)
+        if (!MECH_MasterControls.GamePaused)
         {
-            waveEnded = false;
-            StartCoroutine(SpawnWave());
-            countTime = timeBetween;
-        }
+            if (countTime <= 0f)
+            {
+                waveEnded = false;
+                StartCoroutine(SpawnWave());
+                countTime = timeBetween;
+            }
 
-        if (waveEnded)
-        {
-            countTime -= Time.deltaTime;
+            if (waveEnded)
+            {
+                countTime -= Time.deltaTime;
+            }
         }
 	}
 
