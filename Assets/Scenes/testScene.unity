@@ -129,7 +129,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &34979845
 RectTransform:
   m_ObjectHideFlags: 0
@@ -223,7 +223,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 60, y: -445.80002}
+  m_AnchoredPosition: {x: 60, y: -458.55002}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &125616722
@@ -242,7 +242,8 @@ MonoBehaviour:
     bounce!
   imageSource: {fileID: 125616724}
   target: {fileID: 1475807017}
-  ID: 400
+  ID: 103
+  isSkillActive: 0
 --- !u!114 &125616723
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -532,7 +533,8 @@ MonoBehaviour:
     hold grudges.
   imageSource: {fileID: 188083481}
   target: {fileID: 1475807017}
-  ID: 101
+  ID: 200
+  isSkillActive: 0
 --- !u!114 &188083480
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -778,7 +780,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 60, y: -226.6}
+  m_AnchoredPosition: {x: 60, y: -230.85}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &343813661
@@ -796,7 +798,8 @@ MonoBehaviour:
     the can of beans before throwing it!
   imageSource: {fileID: 343813663}
   target: {fileID: 1475807017}
-  ID: 201
+  ID: 101
+  isSkillActive: 0
 --- !u!114 &343813662
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1230,7 +1233,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 60, y: -336.2}
+  m_AnchoredPosition: {x: 60, y: -344.7}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &546352027
@@ -1248,7 +1251,8 @@ MonoBehaviour:
     me now! I'm a homeless auntrepreneur!
   imageSource: {fileID: 546352029}
   target: {fileID: 1475807017}
-  ID: 203
+  ID: 302
+  isSkillActive: 0
 --- !u!114 &546352028
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1482,7 +1486,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 59.99997, y: -445.80002}
+  m_AnchoredPosition: {x: 59.99997, y: -458.55002}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &634492114
@@ -1500,7 +1504,8 @@ MonoBehaviour:
     crafting Military grade weaponry from garbage... Where am I?
   imageSource: {fileID: 634492116}
   target: {fileID: 1475807017}
-  ID: 104
+  ID: 203
+  isSkillActive: 0
 --- !u!114 &634492115
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1679,7 +1684,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 60, y: -445.80002}
+  m_AnchoredPosition: {x: 60, y: -458.55002}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &680498269
@@ -1697,7 +1702,8 @@ MonoBehaviour:
     crafting Military grade weaponry from garbage... Where am I?
   imageSource: {fileID: 680498271}
   target: {fileID: 1475807017}
-  ID: 204
+  ID: 303
+  isSkillActive: 0
 --- !u!114 &680498270
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1959,7 +1965,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 60, y: -336.2}
+  m_AnchoredPosition: {x: 60, y: -344.7}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &805777485
@@ -1978,7 +1984,8 @@ MonoBehaviour:
     n' Cheese?
   imageSource: {fileID: 805777487}
   target: {fileID: 1475807017}
-  ID: 300
+  ID: 102
+  isSkillActive: 0
 --- !u!114 &805777486
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2732,7 +2739,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 59.99997, y: -226.6}
+  m_AnchoredPosition: {x: 59.99997, y: -230.85}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1077866060
@@ -2751,7 +2758,8 @@ MonoBehaviour:
     in traps!?
   imageSource: {fileID: 1077866062}
   target: {fileID: 1475807017}
-  ID: 102
+  ID: 201
+  isSkillActive: 0
 --- !u!114 &1077866061
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2879,7 +2887,8 @@ MonoBehaviour:
     hold grudges.
   imageSource: {fileID: 1103672868}
   target: {fileID: 1475807017}
-  ID: 201
+  ID: 300
+  isSkillActive: 0
 --- !u!114 &1103672867
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2989,7 +2998,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 60, y: -226.6}
+  m_AnchoredPosition: {x: 60, y: -230.85}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1141072777
@@ -3008,7 +3017,8 @@ MonoBehaviour:
     in traps!?
   imageSource: {fileID: 1141072779}
   target: {fileID: 1475807017}
-  ID: 202
+  ID: 301
+  isSkillActive: 0
 --- !u!114 &1141072778
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4196,7 +4206,7 @@ MonoBehaviour:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     m_FontSize: 24
     m_FontStyle: 1
-    m_BestFit: 0
+    m_BestFit: 1
     m_MinSize: 2
     m_MaxSize: 40
     m_Alignment: 4
@@ -4494,7 +4504,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 59.99997, y: -336.2}
+  m_AnchoredPosition: {x: 59.99997, y: -344.7}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1722311507
@@ -4512,7 +4522,8 @@ MonoBehaviour:
     me now! I'm a homeless auntrepreneur!
   imageSource: {fileID: 1722311509}
   target: {fileID: 1475807017}
-  ID: 103
+  ID: 202
+  isSkillActive: 0
 --- !u!114 &1722311508
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4786,6 +4797,7 @@ MonoBehaviour:
   imageSource: {fileID: 1779834120}
   target: {fileID: 1475807017}
   ID: 100
+  isSkillActive: 0
 --- !u!114 &1779834119
 MonoBehaviour:
   m_ObjectHideFlags: 0
