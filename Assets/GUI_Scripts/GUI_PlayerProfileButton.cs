@@ -2,13 +2,15 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GUI_LefthandMenu : MonoBehaviour {
+public class GUI_PlayerProfileButton : MonoBehaviour {
 
     protected bool isMenuActive;
+    public GameObject menu;
     public GameObject[] relatedObjs;
-    public GameObject menu1;
-    public GameObject menu2;
-    
+
+    void Start(){
+    }
+
     void Update(){
         isMenuActive = false;
         foreach (GameObject obj in relatedObjs)
@@ -20,12 +22,12 @@ public class GUI_LefthandMenu : MonoBehaviour {
             }
         }
     }
-    public void ToggleMenu()
-    {
+
+    public void toggleMenu(){
         if (!isMenuActive)
         {
-            menu1.SetActive(!menu1.activeSelf);
-            menu2.SetActive(!menu2.activeSelf);
+            menu.SetActive(!menu.activeSelf);
         }
+        
     }
 }
