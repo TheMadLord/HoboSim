@@ -9,4 +9,8 @@ public class Buildables : MonoBehaviour
     public Tile[] buildableOn;
     public float heath;
 
+
+    public void Remove() {
+        GameObject.Destroy(gameObject);
+    }
 }

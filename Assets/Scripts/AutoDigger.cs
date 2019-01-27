@@ -16,8 +16,7 @@ public class AutoDigger : Buildables {
         timer -= Time.deltaTime;
         if (timer <= 0) {
             timer = timeBetweenDigs;
-            DiggingScript.Trash += 5;
-            //print("Trash :" + DiggingScript.Trash);
+            DiggingScript.AddTrash(5);
         }
 	}
 

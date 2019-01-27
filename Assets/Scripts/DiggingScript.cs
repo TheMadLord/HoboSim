@@ -5,14 +5,36 @@ using UnityEngine.Tilemaps;
 using UnityEngine.SceneManagement;
 
 public class DiggingScript : MonoBehaviour {
-    public static int Trash = 100;
-    public static float heath = 100;
+    public static int Trash{get; private set;}
+    public static float heath { get; private set; }
+    public static int MaxTrash;
     public Tilemap tm;
 	// Use this for initialization
-	void Start () {
-        Trash = 100;
+	void Awake () {
+        Trash = 50;
         heath = 100;
+        MaxTrash = 100;
 	}
+
+    public static void AddTrash(int amount) {
+        Trash += amount;
+        Trash = Mathf.Clamp(Trash, 0, MaxTrash);
+    }
+
+    public static bool SpendTrash(int amount) {
+        if (amount > Trash) return false;
+        Trash -= amount;
+        return true;
+    }
+
+    public static void HurtTrash(float damage) {
+        heath -= damage;
+        print(heath);
+        if (heath <= 0)
+        {
+            SceneManager.LoadScene(2);
+        }
+    }
 
     void Update() {
         if (Input.GetMouseButtonDown(0)) {
@@ -24,12 +46,10 @@ public class DiggingScript : MonoBehaviour {
                 string clicked = tm.GetTile(tm.WorldToCell(hit.point)).name;
                 if (at == "Digable" && clicked == "MagaTrash")
                 {
-                    Trash += MECH_SkillPoints.trashCarryWeight;
+                    AddTrash(MECH_SkillPoints.trashCarryWeight);
                 }
             }
         }
-        if (heath <= 0) { 
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-        }
+
 	}
 }
