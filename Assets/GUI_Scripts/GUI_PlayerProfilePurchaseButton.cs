@@ -17,6 +17,30 @@ public class GUI_PlayerProfilePurchaseButton : MonoBehaviour {
             {
                 switch (ID)
                 {
+                    case 100:
+                        if (MECH_SkillPoints.SkillPoints - s.Cost > 0)
+                        {
+                            MECH_SkillPoints.SkillPoints -= s.Cost;
+                            MECH_SkillPoints.ShootingRank++;
+                            s.isSkillUsed = true;
+                        }
+                        break;
+                    case 101:
+                        if (MECH_SkillPoints.SkillPoints - s.Cost > 0)
+                        {
+                            MECH_SkillPoints.SkillPoints -= s.Cost;
+                            MECH_SkillPoints.ShootingRank++;
+                            s.isSkillUsed = true;
+                        }
+                        break;
+                    case 102:
+                        if (MECH_SkillPoints.SkillPoints - s.Cost > 0)
+                        {
+                            MECH_SkillPoints.SkillPoints -= s.Cost;
+                            MECH_SkillPoints.ShootingRank++;
+                            s.isSkillUsed = true;
+                        }
+                        break;
                     case 300:
                         if (MECH_SkillPoints.SkillPoints - s.Cost > 0)
                         {
@@ -46,6 +70,38 @@ public class GUI_PlayerProfilePurchaseButton : MonoBehaviour {
                         {
                             MECH_SkillPoints.SkillPoints -= s.Cost;
                             MECH_SkillPoints.trashCarryWeight++;
+                            s.isSkillUsed = true;
+                        }
+                        break;
+                    case 400:
+                        if (MECH_SkillPoints.SkillPoints - s.Cost > 0)
+                        {
+                            MECH_SkillPoints.SkillPoints -= s.Cost;
+                            MECH_SkillPoints.BuildingRank++;
+                            s.isSkillUsed = true;
+                        }
+                        break;
+                    case 401:
+                        if (MECH_SkillPoints.SkillPoints - s.Cost > 0)
+                        {
+                            MECH_SkillPoints.SkillPoints -= s.Cost;
+                            MECH_SkillPoints.BuildingRank++;
+                            s.isSkillUsed = true;
+                        }
+                        break;
+                    case 402:
+                        if (MECH_SkillPoints.SkillPoints - s.Cost > 0)
+                        {
+                            MECH_SkillPoints.SkillPoints -= s.Cost;
+                            MECH_SkillPoints.BuildingRank++;
+                            s.isSkillUsed = true;
+                        }
+                        break;
+                    case 403:
+                        if (MECH_SkillPoints.SkillPoints - s.Cost > 0)
+                        {
+                            MECH_SkillPoints.SkillPoints -= s.Cost;
+                            MECH_SkillPoints.BuildingRank++;
                             s.isSkillUsed = true;
                         }
                         break;
