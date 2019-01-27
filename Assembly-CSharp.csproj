@@ -57,6 +57,7 @@
      <Compile Include="Assets\GUI_Scripts\GUI_LefthandMenu.cs" />
      <Compile Include="Assets\GUI_Scripts\GUI_MainParent.cs" />
      <Compile Include="Assets\GUI_Scripts\GUI_PlayerProfileButton.cs" />
+     <Compile Include="Assets\GUI_Scripts\GUI_PlayerProfilePurchaseButton.cs" />
      <Compile Include="Assets\GUI_Scripts\GUI_PlayerProfileReadMoretab.cs" />
      <Compile Include="Assets\GUI_Scripts\GUI_PlayerProfileSkillButtons.cs" />
      <Compile Include="Assets\GUI_Scripts\GUI_SkillPointCounter.cs" />
