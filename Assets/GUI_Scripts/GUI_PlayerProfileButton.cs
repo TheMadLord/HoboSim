@@ -12,22 +12,9 @@ public class GUI_PlayerProfileButton : MonoBehaviour {
     }
 
     void Update(){
-        isMenuActive = false;
-        foreach (GameObject obj in relatedObjs)
-        {
-            if (obj.activeSelf)
-            {
-                isMenuActive = true;
-                break;
-            }
-        }
     }
 
     public void toggleMenu(){
-        if (!isMenuActive)
-        {
-            menu.SetActive(!menu.activeSelf);
-        }
-        
+        menu.SetActive(!menu.activeSelf);
     }
 }

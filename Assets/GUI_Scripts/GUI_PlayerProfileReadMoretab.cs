@@ -11,7 +11,6 @@ public class GUI_PlayerProfileReadMoretab : MonoBehaviour {
 
     void Start() {
         gameObject.SetActive(false);
-
     }
 
     void Update() {

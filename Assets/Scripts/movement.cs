@@ -18,9 +18,9 @@ public class movement : MonoBehaviour {
 
     void FixedUpdate()
     {
-        float moveHorz = Input.GetAxis("Horizontal");
-        float moveVert = Input.GetAxis("Vertical");
-        Vector2 movement = new Vector2(moveHorz, moveVert);
-        rb2d.AddForce(movement * speed);
+            float moveHorz = Input.GetAxis("Horizontal");
+            float moveVert = Input.GetAxis("Vertical");
+            Vector2 movement = new Vector2(moveHorz, moveVert);
+            rb2d.AddForce(movement * speed);
     }
 }
