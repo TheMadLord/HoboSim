@@ -26,17 +26,17 @@ public class Enemy : MonoBehaviour {
         atTrash = false;
     }
 
-    public void initSprite(int num)
+    public void initSprite(float num)
     {
-        if(num == 1)
+        if(num < 100)
         {
             GetComponent<SpriteRenderer>().sprite = sp1;
         }
-        else if (num == 2)
+        else if (num < 200)
         {
             GetComponent<SpriteRenderer>().sprite = sp2;
         }
-        else if (num == 3)
+        else if (num < 300)
         {
             GetComponent<SpriteRenderer>().sprite = sp3;
         }

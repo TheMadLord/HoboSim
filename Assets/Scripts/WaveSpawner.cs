@@ -64,7 +64,7 @@ public class WaveSpawner : MonoBehaviour {
         GameObject go = Instantiate(enemyGameObject, transform.position, transform.rotation).gameObject;
         //go.GetComponent<NavMeshAgent>().SetDestination(new Vector3(10, 1, 10));
         go.GetComponent<Enemy>().initWaypoints(pointList);
-        go.GetComponent<Enemy>().initSprite((int)Random.Range(1, 3));
+        go.GetComponent<Enemy>().initSprite(Random.Range(0, 300f));
         //go.GetComponent<NavMeshAgent>().SetDestination(new Vector3(10, 1, 10));
     }
 }
