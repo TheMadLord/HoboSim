@@ -9,14 +9,14 @@ public class AutoDigger : Buildables {
     private int mHealth;
     void Start() {
         timer = timeBetweenDigs;
-        mHealth = 100;
+        mHealth = 200;
     }
 
 	void Update () {
         timer -= Time.deltaTime;
         if (timer <= 0) {
             timer = timeBetweenDigs;
-            DiggingScript.Trash += 1;
+            DiggingScript.Trash += 5;
             //print("Trash :" + DiggingScript.Trash);
         }
 	}

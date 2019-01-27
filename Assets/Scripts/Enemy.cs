@@ -27,6 +27,8 @@ public class Enemy : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+        if (!MECH_MasterControls.GamePaused)
+        {
             if (atTrash)
             {
                 Vector3 direction = (EnemyTarget.pos - transform.position).normalized;
@@ -34,6 +36,7 @@ public class Enemy : MonoBehaviour {
 
                 if ((EnemyTarget.pos - transform.position).magnitude < 2.7f)
                 {
+                    DiggingScript.heath -= 10;
                     damage(mHealth);
                 }
             }
@@ -47,6 +50,7 @@ public class Enemy : MonoBehaviour {
                     GetNextWaypoint();
                 }
             }
+        }
     }
 
     private void GetNextWaypoint()
@@ -77,10 +81,12 @@ public class Enemy : MonoBehaviour {
         {
             col.gameObject.GetComponent<AutoDigger>().damage(10);
         }
+        /*
         else if (col.gameObject.name == "Player")
         {
             col.gameObject.GetComponent<Health>().damage(2);
         }
+        */
     }
 
     public void damage(int amt)
@@ -88,8 +94,8 @@ public class Enemy : MonoBehaviour {
         mHealth -= amt;
         if(mHealth <= 0)
         {
+            MECH_SkillPoints.SkillPoints++;
             Destroy(gameObject);
-            
         }
     }
 }

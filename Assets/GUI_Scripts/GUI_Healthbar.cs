@@ -2,14 +2,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+//using DiggingScript;
 
 public class GUI_Healthbar : MonoBehaviour {
 
     public float Health;
     protected float maxHealth;
     protected Image image;
+
 	void Start () {
-        Health = 100f; maxHealth = 100f;
+        maxHealth = getHealth();
+        Health = maxHealth;
         image = GetComponent<Image>();
 	}
 	
@@ -19,7 +22,7 @@ public class GUI_Healthbar : MonoBehaviour {
 	}
 
     public float getHealth(){
-        return (Health - .01f);
+        return (DiggingScript.heath);
     }
 
 }

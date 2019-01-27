@@ -120,10 +120,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f600514947fd7884bbfe2fd4b7e9eb69, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cost: 1
+  cost: 50
   buildableOn:
   - {fileID: 11400000, guid: e89ba532c93bf8a49ba82d00cbd1bae4, type: 2}
-  timeBetweenDigs: 2
+  heath: 1
+  timeBetweenDigs: 1
 --- !u!212 &212999455602341998
 SpriteRenderer:
   m_ObjectHideFlags: 1

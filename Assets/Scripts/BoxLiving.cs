@@ -7,7 +7,7 @@ public class BoxLiving : MonoBehaviour {
     private int mHealth;
 	// Use this for initialization
 	void Start () {
-        mHealth = 100;
+        mHealth = 300;
 	}
 	
 	// Update is called once per frame

@@ -7,12 +7,12 @@ public class WaveSpawner : MonoBehaviour {
 
     public Transform enemyGameObject;
 
-    public float timeBetween = 20f;
+    public float timeBetween = 10f;
     private float countTime;
 
     private int waveNum = 0;
 
-    public int numEnemies = 10;
+    public int numEnemies = 3;
 
     private bool waveEnded;
 
@@ -31,16 +31,19 @@ public class WaveSpawner : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        if(countTime <= 0f)
+        if (!MECH_MasterControls.GamePaused)
         {
-            waveEnded = false;
-            StartCoroutine(SpawnWave());
-            countTime = timeBetween;
-        }
+            if (countTime <= 0f)
+            {
+                waveEnded = false;
+                StartCoroutine(SpawnWave());
+                countTime = timeBetween;
+            }
 
-        if (waveEnded)
-        {
-            countTime -= Time.deltaTime;
+            if (waveEnded)
+            {
+                countTime -= Time.deltaTime;
+            }
         }
 	}
 
@@ -48,7 +51,7 @@ public class WaveSpawner : MonoBehaviour {
     {
         waveNum++;
 
-        for (int i = 0; i < numEnemies; i++)
+        for (int i = 0; i < numEnemies  * waveNum; i++)
         {
             SpawnEnemy();
             yield return new WaitForSeconds(0.5f);
