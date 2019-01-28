@@ -1,0 +1,336 @@
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\Boo.Lang.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\mscorlib.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\System.Core.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\System.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\System.Runtime.Serialization.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\System.Xml.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\System.Xml.Linq.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\Unity.Locator.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\Unity.TextMeshPro.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEditor.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.AIModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.ARModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.AudioModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.ClothModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.CoreModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.GridModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.InputModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.TLSModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.UIModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.UNETModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.VideoModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.VRModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.WindModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.XRModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityScript.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityScript.Lang.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\Unity.Cecil.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\Unity.DataContract.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\ExCSS.Unity.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\Boo.Lang.Parser.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\Boo.Lang.Compiler.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\Unity.IvyParser.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\Boo.Lang.Useful.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEditor.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.AIModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.ARModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.AudioModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.ClothModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.CoreModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.GridModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.InputModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.TLSModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.UIModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.UNETModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.VRModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.VideoModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.WindModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.XRModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\obj\Debug\Assembly-CSharp.dll
+E:\Game_jam\GameJamJan2019_Home\HoboSim1.0\HoboSim\obj\Debug\Assembly-CSharp.pdb
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\obj\Debug\Assembly-CSharp.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\obj\Debug\Assembly-CSharp.pdb
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\mscorlib.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\System.Core.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\System.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\System.Xml.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEditor.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityScript.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEditor.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\elija\Creative Cloud Files\Documents\GameJam\2019\HoboSim\obj\Debug\Assembly-CSharp.csproj.CopyComplete
